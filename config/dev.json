@@ -1,0 +1,15 @@
+{
+	"server": {
+		"test": "test"
+	},
+	"public": {
+		"apiHost": "https://testplatform.smm.cn",
+		"apiHostEN": "https://testplatform.metal.com",
+		"grpcAddress": "testplatform.smm.cn:6121"
+	},
+	"deploy": {
+		"host": "",
+		"version": "",
+		"cdn": false
+	}
+}
